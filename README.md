@@ -81,7 +81,7 @@ You can add `-d` flag to run the server in detached mode.
 ### Heroku
 Host your own instance of Consumet API on Heroku using the button below.
 
-[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/consumet/api.consumet.org/tree/main)
+[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/tonmoyislam250/api.consumet.org/tree/main)
 
 ### Vercel
 Host your own instance of Consumet API on Vercel using the button below.
